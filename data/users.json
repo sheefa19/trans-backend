@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "password": "admin123",
+        "role": "admin",
+        "jwt": ""
+    },
+    {
+        "name": "Agent User",
+        "email": "agent@example.com",
+        "password": "agent123",
+        "role": "agent",
+        "jwt": ""
+    },
+    {
+        "name": "Driver User",
+        "email": "driver@gmail.com",
+        "password": "driver123",
+        "role": "driver",
+        "jwt": ""
+    },
+    {
+        "name": "Test Admin",
+        "email": "newadmin@example.com",
+        "password": "pass123",
+        "role": "admin",
+        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb2NhbGhvc3QiLCJpYXQiOjE3NjQ1ODI1NzYsImV4cCI6MTc2NDU4NjE3NiwiZGF0YSI6eyJpZCI6MywiZW1haWwiOiJuZXdhZG1pbkBleGFtcGxlLmNvbSIsIm5hbWUiOiJUZXN0IEFkbWluIiwicm9sZSI6ImFkbWluIn19.gc9l72QyEAEQUYCc5z_KstA6RDpKIlF8uzDHYX4QKbY"
+    },
+    {
+        "name": "Shifa",
+        "email": "shifa@example.com",
+        "password": "12345",
+        "role": "admin",
+        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb2NhbGhvc3QiLCJpYXQiOjE3NjQ1ODUxNTksImV4cCI6MTc2NDU4ODc1OSwiZGF0YSI6eyJpZCI6NCwiZW1haWwiOiJzaGlmYUBleGFtcGxlLmNvbSIsIm5hbWUiOiJTaGlmYSIsInJvbGUiOiJhZG1pbiJ9fQ.99B_k-aBLlg2EJW9sCTyYVvUGHWqNHU32D6cqgdH9zw"
+    },
+    {
+        "name": "Shiffa",
+        "email": "shiffa@example.com",
+        "password": "$2y$10$GFCXvoU1PbT2\/NmM274MheIlhyb0uOp0pMsQSZfL5BiUKXcswsMPq",
+        "role": "agent",
+        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb2NhbGhvc3QiLCJpYXQiOjE3NjQ2MDAxNjEsImV4cCI6MTc2NDYwMzc2MSwiZGF0YSI6eyJpZCI6NSwiZW1haWwiOiJzaGlmZmFAZXhhbXBsZS5jb20iLCJuYW1lIjoiU2hpZmZhIiwicm9sZSI6ImFnZW50In19.brrXlqouwasP52xdoGtPXM-HYgRg4mafpICURdXfDmA"
+    },
+    {
+        "name": "Sheffa",
+        "email": "shefa@example.com",
+        "password": "$2y$10$MJLSZQDtMUe3T7wZSddI6.z5m3MZX9uZqSP2pdAmcnVvZ05wwE3vW",
+        "role": "driver",
+        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb2NhbGhvc3QiLCJpYXQiOjE3NjQ2MDA1MTUsImV4cCI6MTc2NDYwNDExNSwiZGF0YSI6eyJpZCI6NiwiZW1haWwiOiJzaGVmYUBleGFtcGxlLmNvbSIsIm5hbWUiOiJTaGVmZmEiLCJyb2xlIjoiZHJpdmVyIn19.CugNO4m8UosQYCeC16GBeblayCEdMATSsp8xiGRKlUI"
+    }
+]

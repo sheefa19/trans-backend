@@ -1,0 +1,22 @@
+[
+  {
+    "message": "New load posted: Mumbai → Delhi",
+    "time": "2 hours ago",
+    "type": "new"
+  },
+  {
+    "message": "Job completed: Pune → Surat",
+    "time": "5 hours ago",
+    "type": "completed"
+  },
+  {
+    "message": "Payment received: ₹2,000",
+    "time": "1 day ago",
+    "type": "payment"
+  },
+  {
+    "message": "Delay alert: Bangalore → Hyderabad",
+    "time": "2 days ago",
+    "type": "alert"
+  }
+]
